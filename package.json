@@ -1,0 +1,23 @@
+{
+  "name": "kurs-cli",
+  "version": "1.0.0",
+  "description": "Dapatkan informasi harga tukar mata uang",
+  "license": "MIT",
+  "repository": "https://github.com/ImBobby/kurs-cli",
+  "author": {
+    "name": "Bobby"
+  },
+  "bin": {
+    "kurs": "index.js"
+  },
+  "keywords": [
+    "kurs",
+    "mata uang",
+    "currency"
+  ],
+  "dependencies": {
+    "cli-columns": "^1.0.6",
+    "numeral": "^1.5.3",
+    "pad-left": "^2.1.0"
+  }
+}
