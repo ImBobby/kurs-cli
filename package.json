@@ -16,7 +16,7 @@
     "currency"
   ],
   "dependencies": {
-    "cli-columns": "^1.0.6",
+    "cli-columns": "^2.0.0",
     "numeral": "^1.5.3",
     "pad-left": "^2.1.0"
   }
