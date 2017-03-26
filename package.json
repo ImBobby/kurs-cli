@@ -17,7 +17,7 @@
   ],
   "dependencies": {
     "cli-columns": "^1.0.6",
-    "numeral": "^1.5.3",
+    "numeral": "^2.0.5",
     "pad-left": "^2.1.0"
   }
 }
