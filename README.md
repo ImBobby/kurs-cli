@@ -1,5 +1,7 @@
 # kurs-cli
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ImBobby/kurs-cli.svg)](https://greenkeeper.io/)
+
 > Cek nilai tukar mata uang dari cli
 
 ## Instalasi
